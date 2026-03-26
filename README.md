@@ -15,10 +15,3 @@ This project builds a robust NLP preprocessing pipeline to clean and normalize m
 ## Tech Stack
 - Python
 - Jupyter Notebook
-
-## How to Run
-1. Open notebook
-2. Run all cells
-
-## Author
-Tanishka Jadhav
